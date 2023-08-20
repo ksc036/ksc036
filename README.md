@@ -28,6 +28,17 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 
 ---
 
+![header](https://capsule-render.vercel.app/api?type=transparent&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=80&animation=fadeIn&section=footer&text=📌%20Major%20Projects&fontAlign=20&fontColor=ffffff&fontSize=40)
+
+
+|프로젝트 이름|개요|URL|역할|주요 기술|
+|-|-|-|-|-|
+|**JOB터뷰**| 면접 준비 서비스 플랫폼 |<a href="https://i9a701.p.ssafy.io">잡터뷰 사이트</a><br/>(클릭 시 해당 사이트로 이동)|Docker와 Jenkins를 이용한 CI/CD 자동 배포환경 구축<br/>nodeJS 환경에서 Socket.IO와 WebRTC객체를 사용하여 시그널링 서버 제작<br/>데이터 베이스 모델링|<img src="https://img.shields.io/badge/-AWS EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/-Jenkins-red?style=flat&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/-WebRTC-green?style=flat&logo=WebRTC&logoColor=white"> <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323">|
+|**Enjoy Trip**|공공데이터를 이용한 여행지 추천 및 관광 코스 공유 커뮤니티|<a href="">Enjoy Trip</a><br/>(SSAFY보안서약서 내용에 의거하여 필요시 공개가능)|프로젝트 기획, 설계(Database, Controller, Service, DTO, Mapper 설계)<br/>SQL 쿼리 및 REST API 작성<br/>JWT 토큰 인증 방식<br/>Interceptor를 통한 권한 및 인증 처리)<br/> CRUD기능을 담은 커뮤니티 기능을 하는 게시판 구현|<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323"> |
+
+
+---
+
 ## Languages
 
 <!-- 주요 언어 : C++, C, Java -->
@@ -58,16 +69,6 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 <img src="https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/-Jenkins-red?style=flat&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/-AWS EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/-Jira-blue?style=flat&logo=Jira&logoColor=white">
 
 <br />
-
----
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=80&animation=fadeIn&section=footer&text=📌%20Major%20Projects&fontAlign=20&fontColor=ffffff&fontSize=40)
-
-
-|프로젝트 이름|개요|URL|역할|주요 기술|
-|-|-|-|-|-|
-|**JOB터뷰**| 면접 준비 서비스 플랫폼 |<a href="https://i9a701.p.ssafy.io">잡터뷰 사이트</a><br/>(클릭 시 해당 사이트로 이동)|Docker와 Jenkins를 이용한 CI/CD 자동 배포환경 구축<br/>nodeJS 환경에서 Socket.IO와 WebRTC객체를 사용하여 시그널링 서버 제작<br/>데이터 베이스 모델링|<img src="https://img.shields.io/badge/-AWS EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/-Jenkins-red?style=flat&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/-WebRTC-green?style=flat&logo=WebRTC&logoColor=white"> <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323">|
-|**Enjoy Trip**|공공데이터를 이용한 여행지 추천 및 관광 코스 공유 커뮤니티|<a href="">Enjoy Trip</a><br/>(SSAFY보안서약서 내용에 의거하여 필요시 공개가능)|프로젝트 기획, 설계(Database, Controller, Service, DTO, Mapper 설계)<br/>SQL 쿼리 및 REST API 작성<br/>JWT 토큰 인증 방식<br/>Interceptor를 통한 권한 및 인증 처리)<br/> CRUD기능을 담은 커뮤니티 기능을 하는 게시판 구현|<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323"> |
 
 ---
 
