@@ -16,8 +16,8 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 
 ---
 
-<a href="https://solved.ac/profile/dosoon_in_cp" target="_blank">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dosoon_in_cp"> </a>
+<a href="https://solved.ac/profile/ksc036" target="_blank">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksc036"> </a>
 
 ## Personal history 
 
