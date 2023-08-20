@@ -11,10 +11,10 @@
 
 안녕하세요 백엔드개발자 강수창입니다!  
 A driven, curious back-end developer who values learning, knowledge sharing, and collaboration.
-
    <!-- ### 👀 Visit my porfolio [![Notion Badge](https://img.shields.io/badge/-Here-black?logo=notion&logoColor=white&link=https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)](https://judicious-quarter-626.notion.site/0a099ad5660d438f8e892ae8bfb45dfe)    🍀contact me with [![mail badge](https://img.shields.io/badge/-Here-03C75A?logo=naver&logoColor=white&link=mailto:prkim99@naver.com)](mailto:prkim99@naver.com) -->
 <br/>
 
+---
 
 <a href="https://solved.ac/profile/dosoon_in_cp" target="_blank">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dosoon_in_cp"> </a>
@@ -25,6 +25,8 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 - 🌏 Seoul, Republic of Korea 
 - 🌱 Samsung Software Academy For Youth 9th  
 - 👀 interested in 🎵Music, 🎨Exercise
+
+---
 
 ## Languages
 
