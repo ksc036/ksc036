@@ -16,11 +16,10 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 <br/>
 
 
-
-## Personal history 
-
 <a href="https://solved.ac/profile/dosoon_in_cp" target="_blank">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dosoon_in_cp"> </a>
+
+## Personal history 
 
 - 🎓 Department of Electrical and Computer Engineering in Univ of Seoul  
 - 🌏 Seoul, Republic of Korea 
