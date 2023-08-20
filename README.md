@@ -21,10 +21,10 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 
 ## Personal history 
 
-- 🎓 Department of Electrical and Computer Engineering in Univ of Seoul  
-- 🌏 Seoul, Republic of Korea 
-- 🌱 Samsung Software Academy For Youth 9th  
-- 👀 interested in 🎵Music, 🎨Exercise
+- 🎓 majored in **Electrical and Computer Engineering**, **in Univ of Seoul**  
+- 🌏 **Seoul**, Republic of Korea 
+- 🌱 **SSAFY 9th** (삼성 청년 SW 아카데미), **Java 전공** 트랙 
+- 👀 interested in **💪Exercise**, **🎵Music**
 
 ---
 
