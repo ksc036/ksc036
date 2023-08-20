@@ -66,19 +66,19 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 
 |프로젝트 이름|개요|URL|역할|주요 기술|
 |-|-|-|-|-|
-|**Fighters**|Select 모델을 이용한 싱글스레드 기반 MMORPG 규모 Windows 실시간 게임 서버|<a href="https://github.com/Dosoon/Fighters_Select_Server">Fighters_Select_Server</a><br/>(클릭 시 해당 레포지터리로 이동)|Non-Block 소켓 기반 I/O 처리<br/>L7 I/O Buffer 제작<br/>패킷 직렬화/역직렬화 클래스 제작<br/>HeartBeat을 통한 비정상 클라이언트 연결 관리<br/>Sector 기반 패킷 처리|<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white">|
-|**TripBuddy**|공공데이터를 이용한 여행지 추천 및 관광 코스 공유 커뮤니티|<a href="https://github.com/Dosoon/TripBuddy_BackEnd">TripBuddy_BackEnd</a><br/>(클릭 시 해당 레포지터리로 이동)|프로젝트 기획, 설계(Database, Controller, Service, DTO, Mapper 설계) 및 백엔드 담당<br/>SQL 쿼리 및 REST API 작성<br/>JWT 토큰 인증 방식<br/>Interceptor를 통한 권한 및 인증 처리)<br/> WebSocket 도입을 통한 실시간 통신 기능 구현|<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323"> |
+|**JOB터뷰**| 면접 준비 서비스 플랫폼 |<a href="https://i9a701.p.ssafy.io">잡터뷰 사이트</a><br/>(클릭 시 해당 사이트로 이동)|Docker와 Jenkins를 이용한 CI/CD 자동 배포환경 구축<br/>nodeJS 환경에서 Socket.IO와 WebRTC객체를 사용하여 시그널링 서버 제작<br/>데이터 베이스 모델링|<img src="https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/-Jenkins-red?style=flat&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/-WebRTC-green?style=flat&logo=WebRTC&logoColor=white"><img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323">|
+|**Enjoy Trip**|공공데이터를 이용한 여행지 추천 및 관광 코스 공유 커뮤니티|<a href="">Enjoy Trip</a><br/>(SSAFY보안서약서 내용에 의거하여 필요시 공개가능)|프로젝트 기획, 설계(Database, Controller, Service, DTO, Mapper 설계)<br/>SQL 쿼리 및 REST API 작성<br/>JWT 토큰 인증 방식<br/>Interceptor를 통한 권한 및 인증 처리)<br/> CRUD기능을 담은 커뮤니티 기능을 하는 게시판 구현|<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=232323"> |
 
 ---
 
 ## Github Stats  
 <div align="center">  <table ><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prkim99&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ksc036&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkim99&hide_border=true&layout=compact" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksc036&hide_border=true&layout=compact" align="left" style="width: 95%" />
 
 </td></tr></table>  </div>
 
@@ -86,10 +86,10 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=80&animation=fadeIn&section=footer&text=📫%20Contact&fontAlign=12&fontColor=ffffff&fontSize=40)
 
-* <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> dosoon.in.cp@gmail.com
-* <a href="https://velog.io/@dosoon"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&logoColor=white"> @Dosoon</a>
+* <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> ksc036@gmail.com
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=120&animation=fadeIn&section=footer&fontAlign=28&fontColor=ffffff)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,60:1ABC9C,90:9ACD32,100:9ACD32&height=120&animation=fadeIn&section=footer&fontAlign=28&fontColor=ffffff)
 
 
 <br />
