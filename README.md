@@ -27,7 +27,7 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 - 👀 interested in **💪Exercise**, **🎵Music**
 
 
-## certificate
+## Certificate
 
 - **삼성 sw 역량테스트 모의 A형** (2023.03.06)  
 - **SQLD** (2023.07.07)
