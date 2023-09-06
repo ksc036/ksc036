@@ -26,7 +26,6 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 - 🌱 **SSAFY 9th** (삼성 청년 SW 아카데미), **Java 전공** 트랙 
 - 👀 interested in **💪Exercise**, **🎵Music**
 
----
 
 ## certificate
 
