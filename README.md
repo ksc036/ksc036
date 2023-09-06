@@ -28,6 +28,15 @@ A driven, curious back-end developer who values learning, knowledge sharing, and
 
 ---
 
+## certificate
+
+- **삼성 sw 역량테스트 모의 A형** (2023.03.06)  
+- **SQLD** (2023.07.07)
+- **Softeer HSAT Lv.3** (2023.08.11) 
+- **정보처리기사** (2023.09.01)
+
+---
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=80&animation=fadeIn&section=footer&text=📌%20Major%20Projects&fontAlign=20&fontColor=ffffff&fontSize=40)
 
 
